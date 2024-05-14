@@ -66,9 +66,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Pigs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Piggy logo..',
           src: 'img/logo.svg',
         },
         items: [
